@@ -1,6 +1,7 @@
-<h1 align='center'> Hi there 👋, I'm Jinhyun  👨🏻‍💻 </h1>
+<h1 align="center">Hi there 👋, I'm Jinhyun</h1>
+<h3 align="center">A frontend developer passionate about clean UI</h3>
 
-
+<br>
 
 <p align='center'>
   <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
