@@ -31,7 +31,7 @@
 
 
 <p align='right'>
-<h4>💬  Sometimes I like to write things here</h4>
+<h4>💬  I occasionally write about frontend development, tools, and learning insights on my blog.</h4>
   <a href="https://dev.to"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://medium.com"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://netlify.app"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
